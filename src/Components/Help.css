@@ -1,0 +1,14 @@
+button {
+    padding: 10px 50px;
+    background: none;
+    margin-top: 25vh;
+    margin-left: 15vw;
+    cursor: pointer;
+    color: whitesmoke;
+}
+
+button:hover {
+    background-color: rgb(228, 228, 228);
+    color: black;
+    transition: 1s;
+}
